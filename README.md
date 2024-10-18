@@ -15,6 +15,6 @@ You can view a list of products and their images and details.
 
 - Android Studio
 - Kotlin
-- [The News Api](https://www.thenewsapi.com/)
+- Jetpack compose
 
 ---------
